@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { ThemeContext } from '../Context/themeContext';
 import { Switch } from '@headlessui/react';
 import BeforeBG from '../images/header-before2.png';
